@@ -1,9 +1,5 @@
 {
     "PRINTASERVER": {
-        "function": "", 
-        "packages": [
-            "printa"
-        ], 
         "volatile": false, 
         "description": "Location of Printa DB", 
         "value": "server"
