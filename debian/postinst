@@ -20,7 +20,6 @@ set -e
 case "$1" in
     configure)
 
-	n4d-vars readinbox || true
 
 	;;
 
