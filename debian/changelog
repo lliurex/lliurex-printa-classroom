@@ -1,0 +1,35 @@
+lliurex-printa-classroom (0.7) focal; urgency=medium
+
+  * First focal release
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Tue, 01 Jun 2021 11:03:06 +0200
+
+lliurex-printa-classroom (0.6) bionic; urgency=medium
+
+  * First bionic release
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Fri, 26 Jun 2020 10:40:13 +0200
+
+lliurex-printa-classroom (0.5) xenial; urgency=medium
+
+  * First xenial release
+
+ -- M.Angel Juan <m.angel.juan@gmail.com>  Fri, 12 Feb 2016 13:15:23 +0100
+
+lliurex-printa-classroom (0.3) trusty; urgency=medium
+
+  * First trusty release
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Thu, 15 Jan 2015 13:27:31 +0100
+
+lliurex-printa-classroom (0.2) precise; urgency=low
+
+  * UNRELEASED
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Mon, 16 Jun 2014 09:59:31 +0200
+
+lliurex-printa-classroom (0.1) precise; urgency=high
+
+  * Initial release.
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Fri, 13 Jun 2014 09:37:22 +0200
